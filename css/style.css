@@ -1550,6 +1550,9 @@ color:#000;
 		float: none;
 		width: 100%;
 	}
+	.navbar-brand img{
+		margin-top:-45px;
+	}
 .navbar .nav > .active > a, .navbar .nav > .active > a:hover {
 background: none;
 font-weight: 700;
