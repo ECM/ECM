@@ -86,6 +86,7 @@ header .navbar {
 .navbar-brand img{
     width: 120px;
 	margin-left:0px;
+	margin-top: -15px;
 }
 .navbar-default .navbar-brand{
 color: #2FADDE;
@@ -304,7 +305,7 @@ display: inline-block;
 }
 #featured .flexslider:after {
 content:'';
-/* background: rgba(17, 218, 180, 0.67); */
+/* background: rgba(85, 240, 240, 0.521); */
 position:absolute;
 top:0px;
 z-index:6;
@@ -318,7 +319,7 @@ left:0px;
 right:0px;
 }
 .flex-caption {zoom: 1;
-bottom: 35px; background-color: transparent; color: #fff; margin: 0; padding: 25px 25px 25px 30px; position: absolute; left: 10%; right:0px; }
+bottom: 35px; background-color: #37a692af; color: #fff; margin: 0; padding: 15px 25px 20px 30px; position: absolute; left: 10%; right:10%; }
 .flex-caption h3 {color: #FFFFFF; letter-spacing: 1px; margin-bottom: 8px; text-transform: uppercase;font-size: 36px;}
 .flex-caption p {margin: 0 0 15px;}
 .skill-home{
