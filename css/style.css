@@ -305,7 +305,7 @@ display: inline-block;
 }
 #featured .flexslider:after {
 content:'';
-/* background: rgba(85, 240, 240, 0.521); */
+background: rgba(0, 0, 0, 0.521);
 position:absolute;
 top:0px;
 z-index:6;
@@ -563,6 +563,9 @@ padding: 3em 0;
 background: #f6f6f6;
 width:100%;
 padding:60px 0;
+}
+.feature_grid1{
+	padding: 10px 0px;
 }
 .feature_grid1 .fa{
 color: #6E6E6E;
